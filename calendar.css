@@ -3,11 +3,11 @@ body{
  
 }  
 table, td, th{
-    border: solid 2px black;
+    border: solid 2px rgb(78, 71, 71);
     border-collapse: collapse;
 }
 th{
-    background-color: rgb(38, 0, 253);
+    background-color: rgb(0, 0, 0);
     color: white;
 }
 .domingo{
@@ -15,23 +15,23 @@ th{
     color: white;
 }
 .legenda2{
-    background-color: rgb(93, 240, 93);
+    background-color: rgb(73, 231, 73);
     font-size: 20px;
     color:black;
 }
 .legenda1{
-    background-color:rgb(66, 204, 250);
+    background-color:rgb(51, 196, 245);
     font-size: 20px;
     color: black;
 }
 .legenda3{
-    background-color:rgb(255, 152, 167);
+    background-color:rgb(245, 84, 108);
     font-size: 20px;
     color: black;
  
 }
 .legenda4{
-    background-color: rgb(106, 84, 255);
+    background-color: rgb(74, 59, 168);
     font-size: 20px;
     color: black;
 }
