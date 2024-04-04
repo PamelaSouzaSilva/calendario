@@ -6,3 +6,5 @@ function colorirDia(){
 
     td.style.backgroundColor = color;
 }
+
+
